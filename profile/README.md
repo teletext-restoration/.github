@@ -22,7 +22,7 @@ Yes please! Drop us an email at <archive@zxnet.co.uk> to discus the logistics.
 
 Cataloguing large batches of recoveries can be very time consuming depending on what is submitted, so it helps a lot if people are able to do some pre-processing of their submissions e.g. identifying date and time stamps, whether the recording has gaps, etc.
 
-The archive currently collects recoveries of UK television channels only. Similar archives for other countries/regions could be created under the same teletext-restoration umbrella if somebody steps up as maintainer/assembles a team to do it.
+The archive currently collects recoveries of UK and Irish television channels only. Similar archives for other countries/regions could be created under the same teletext-restoration umbrella if somebody steps up as maintainer/assembles a team to do it.
 
 We particularly like recoveries that are deconvolved using the `-k` flag (keep empty lines) as it makes analysis of VBI line allocation etc. possible, but many of the recoveries in the archive predate this option. If cutting such recoveries from a longer file please try to split them on whole frame boundaries.
 
